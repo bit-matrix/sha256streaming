@@ -1,2 +1,2 @@
 # sha256streaming
-A lightweight sha256 streaming util described in https://github.com/ElementsProject/elements/pull/817.
+A lightweight implementation of sha256 streaming opcodes described in https://github.com/ElementsProject/elements/pull/817.
