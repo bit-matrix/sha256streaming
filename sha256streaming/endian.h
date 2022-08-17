@@ -10,7 +10,6 @@
 //#endif
 
 #include "byteswap.h"
-
 #include <stdint.h>
 
 #if defined(HAVE_ENDIAN_H)
